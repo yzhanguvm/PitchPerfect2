@@ -63,11 +63,5 @@ class PlaySoundsViewController: UIViewController {
     
     override func viewWillAppear(animated: Bool) {
         configureUI(.NotPlaying)
-    }
-    
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
+    }    
 }
