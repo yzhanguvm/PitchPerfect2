@@ -109,7 +109,6 @@
                         <outlet property="reverbButton" destination="cup-kt-bES" id="IIn-Gj-aF1"/>
                         <outlet property="snailButton" destination="rYB-kF-Jjp" id="0Of-zG-n7t"/>
                         <outlet property="stopButton" destination="BIp-ah-vIP" id="WKo-lB-Dai"/>
-                        <outlet property="view" destination="rYB-kF-Jjp" id="mtf-q2-QcZ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LCr-kg-T9K" userLabel="First Responder" sceneMemberID="firstResponder"/>
